@@ -28,7 +28,7 @@
     docker push <b>USERNAME/</b>telegraf_unifi
 </pre>   
 
-### docker hub link<br> https://hub.docker.com/r/drewgwallace/telegraf_unifi/
+### Image on [Docker Hub](https://hub.docker.com/r/drewgwallace/telegraf_unifi/)
 
 ----
 
